@@ -1,0 +1,204 @@
+{
+    "type": "zh",
+    "language": "chinese",
+    "title": "Neco reserve ",
+    "step": {
+        "next": "Next",
+        "back": "Back",
+        "1": "Start",
+        "1_": "~Make resersavion in 30sec~",
+        "2": "Choose your plan",
+        "3": "Select Time",
+        "4": "Confirm",
+        "4_L": "／Continue on LINE talk＼",
+        "4_A": "／Check your email＼",
+        "4a": "Confirm the information",
+        "4a_": "／Check the following notice＼",
+        "4b":"Completed",
+        "4b_":"／Thank you for your reservation＼"
+    },
+    "p4":{
+        "precaution": "Note - Followed by your resersavion",
+        "confirm": "OK. Good to go!",
+        "msg_needConf": "・This is NOT a confirmed reservation.<br/>・Send additional data via LINE talk.<br/>・Our staff will contact you after the confirmation.",
+        "msg_needCert": "-You need to submit your photo ID to the informed date<br/>",
+        "msg_needPrepay": "- You need to make a payment prior to the informed date.<br/>- Reservasion is void if no payment has made at that time.<br/>- 'Online key' will be issued when you arrive."
+
+    },
+    "p5": {
+        "next": "Confirmation"
+    },
+    "p2": {
+        "needCert": "ID required",
+        "needPrepay": "Pre-payment required",
+        "needConf": "Staff confirmation required",
+        "cart": "Add to cart",
+        "buy": " to pay"
+    },
+    "p1": {
+        "title": "Neco reserve",
+        "welcome": "Welcome, {userName}",
+        "today": "today",
+        "futureDay": "{dayAhead}days in advance",
+        "reserveAhead": "Reservations can be made from {futureReleaseTime} {futureDay}",
+        "CTA": "quick reserve - {compName}",
+        "confirm": "Reservation List",
+        "msg001": " = This service needs staff's reconfirm.",
+        "msg002": " = This service requires pre-payment.",
+        "msg003": " = This service requires your photoID",
+        "msg004": "This app will correct your profile information from LINE and saves them except your user ID.",
+        "msg005": "Concent to proceed."
+    },
+    "p3": {
+        "occupied": {
+            "ok" : "",
+            "navl" : "Sorry...Out of sevice time.",
+            "late" : "End time beyonds our service time.",
+            "rsvd" : "Already reserved"
+        },
+        "good": "is good for me!",
+        "yes": "Avail",
+        "no": "Occupied",
+        "short_yes": "OK",
+        "short_no": "FULL",
+        "closingday": "Closed",
+        "short_closingday": "N/A",
+        "reservation": "Reserve",
+        "minutes": "{minutes}minutes",
+        "msg001": "Book status",
+        "msg002": "Reserve time",
+        "msg003": "Enter reserve time",
+        "msg004": "Start time",
+        "msg005": "Enter start time",
+        "msg006": "Meny",
+        "msg007": "Choose menu",
+        "msg008": "End time",
+        "msg009": "End time is auto-calculated",
+        "msg010": "Reserve now",
+        "msg011": "Sorry...<br/>Out of sevice time.",
+        "msg012": "End time beyonds our service time.",
+        "msg013": "Sorry...<br/>We couldn't place your reserve.",
+        "msg014": "Already reserved",
+        "msg015": "Putting reservation..",
+        "msg016": "Sorry!<br/>We couldn't place your reserve.",
+        "msg017": "Already reserved",
+        "msg018": "Error",
+        "msg019": "Error. Try again later, please."
+    },
+    "user":{
+        "menuA" : "Reserve List",
+        "menuB" : "History",
+        "menuC" : "New Booking",
+        "menuD" : "LOGOUT",
+        "menuE" : "LOGIN",
+        "menuF" : "Setting"
+    },
+    "pA":{
+        "stbPay": "Pay ¥{price} by ",
+        "paydOk": "{price}JPY confirmed",
+        "idRqrd": "ID required",
+        "idRgst": "ID confirmed",
+        "faceRqrd": "Photo required",
+        "faceRgst": "Photo confirmed",
+        "noRsv": " Load your reservations"
+    },
+    "pB":{
+        "review": "Write review",
+        "rsvAgn": "Visit again",
+        "noRsv": "No record"
+    },
+    "pC":{
+        "photo1": "Photo ID",
+        "photo1Title": "#1 - Photo ID",
+        "photo2": "Face Photo",
+        "photo2Title": "#2 - Front Face",
+        "error":{
+            "Error": "Rekognition error",
+            "notID": "Is this an ID?",
+            "notClear": "Could not recognise properly",
+            "tooSmall": "Image is too small",
+            "notAll": "Show all area of the ID",
+            "notSameFace": "Is this the same person?",
+            "2faces": "2 or more person in frame",
+            "undefined":"Not rekognized"
+        },
+        "start":"Register now",
+        "retake": "Take again",
+        "submit": "Submit",
+        "goal": "Done!"
+    },
+    "payment": {
+        "pay": "Pay {price}JPY",
+        "btn": "Pay Now"
+    },
+    "footer": {
+        "shop": "Shop",
+        "staff": "Staff",
+        "day": "Day",
+        "selection": "Selection"
+    },
+    "utils": {
+        "sun": "sun",
+        "mon": "mon",
+        "tue": "tue",
+        "wed": "wed",
+        "thu": "thu",
+        "fri": "fri",
+        "sat": "sat"
+    },
+    "month": {
+        "1": "Jan ",
+        "2": "Feb ",
+        "3": "Mar ",
+        "4": "Apr ",
+        "5": "May ",
+        "6": "Jun ",
+        "7": "Jul ",
+        "8": "Aug ",
+        "9": "Sep ",
+        "10": "Oct ",
+        "11": "Nov ",
+        "12": "Dec "
+    },
+    "weekdays":{
+        "0": "Sun",
+        "1": "Mon",
+        "2": "Tue",
+        "3": "Wed",
+        "4": "Thu",
+        "5": "Fri",
+        "6": "Sat"
+    },
+    "day":" ",
+    "error": {
+        "msg001": "Communication failed",
+        "msg002": "Reload and retry",
+        "msg003": "Errors",
+        "msg004": "Reload and retry",
+        "msg005": "Session expired. Try again."
+    },
+    "catalog":{
+        "total":"总共",
+        "cta":"件-我要订购",
+        "ordering":"正在订购",
+        "tks":"Thank you for your order.",
+        "showIt":"请向您的员工展示此屏幕",
+        "callStaff":"打电话给员工",
+        "comment":"反馈我们！",
+        "yoro":"谢谢您来{compName}。我们希望您在日本愉快。",
+        "thx":"谢谢",
+        "hagemashi":"您的SNS帖子将是我们的鼓励（^^）",
+        "hash":"复制主题标签",
+        "sorry":"我们会进步！",
+        "gomenbun":"如果您可以随意抱怨,那将是感谢的。",
+        "how":" {compName}如何？",
+        "intrst":"您的感兴趣的菜单"
+
+    },
+    "auth":{
+        "google":"Login with Google",
+        "signup":"Register",
+        "login":"Login",
+        "logout":"Logout"
+    }
+}
