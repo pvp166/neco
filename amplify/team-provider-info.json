@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-neco-dev-eed79-authRole",
+      "UnauthRoleArn": "arn:aws:iam::758063136147:role/amplify-neco-dev-eed79-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::758063136147:role/amplify-neco-dev-eed79-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-neco-dev-eed79-deployment",
+      "UnauthRoleName": "amplify-neco-dev-eed79-unauthRole",
+      "StackName": "amplify-neco-dev-eed79",
+      "StackId": "arn:aws:cloudformation:us-east-1:758063136147:stack/amplify-neco-dev-eed79/be5afbd0-645b-11ef-a99d-12b649162157",
+      "AmplifyAppId": "d3ln10d5ciczgl"
+    },
+    "categories": {
+      "auth": {
+        "neco0224d27f": {}
+      }
+    }
+  }
+}
